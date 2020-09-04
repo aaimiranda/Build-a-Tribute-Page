@@ -1,0 +1,50 @@
+body {
+    background: #f2f6e9;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5rem;
+    margin-left: 45px;
+    margin-right: 35px;
+  }
+
+#title {
+    text-align: center;  
+    color: green;
+    font-size: 50px;
+  }
+
+#brief {
+    font-style: italic;
+    font-size: 15px;
+    color: rgb(51, 107, 51);
+    text-align: center;
+    margin: auto 40px;
+    padding-bottom: 40px;
+}
+
+#image {
+    display: block;
+    margin: auto;
+    width: 30%;
+    
+}
+
+#img-caption {
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 0;
+    padding-bottom: 40px;
+}
+  
+#quote {
+    font-style: italic;
+    font-size: 12px;
+    text-align: right;
+    padding-bottom: 50px;
+}
+
+#footer {
+    font-size: 10px;
+    text-align: center;
+}
