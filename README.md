@@ -1,6 +1,6 @@
 # Build-a-Tribute-Page
 This is the first website created in html and css as part of the first challenge of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
-I'm proud of because It's the beginning of this journey.
+I'm proud of because It was part of the beginning of this journey.
 
 ## Table of contents
 * [General info](#general-info)
