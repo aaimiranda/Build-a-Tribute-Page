@@ -1,5 +1,5 @@
 # Build-a-Tribute-Page
-These is the first website created in HTML and CSS as part of the first challenge of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
+This is the first website created in HTML and CSS as part of the first challenge of the curriculum of the Responsive Web Design Certification at FreeCodeCamp.
 I'm proud of because It was part of the beginning of this journey.
 
 ## Table of contents
@@ -10,7 +10,7 @@ I'm proud of because It was part of the beginning of this journey.
 * [Screenshot](#screenshot)
 
 ## General info
-These is a simple webpage using Html and CSS that made a tribute a Nelson Mandela.
+This is a simple webpage using Html and CSS that made a tribute a Nelson Mandela.
 	
 ## Technologies
 Project is created with:
